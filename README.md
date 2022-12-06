@@ -1,4 +1,6 @@
-# Development UI
+#Running AssayMan locally
+
+## Development UI
 
 For developing the solution without spinning up api services
 
